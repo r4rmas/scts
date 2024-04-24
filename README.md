@@ -4,6 +4,8 @@ Custom VS Code snippet to quickly add Typescript script tags into Svelte files.
 
 ## Configuration
 
+⚠ You need to have the [Svelte extension for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) already installed.
+
 1. Add the emmet snippets to Svelte:
    
 <img src="https://i.ibb.co/pW8tjGm/settings.png" alt="settings" width="550">
