@@ -4,7 +4,11 @@ Custom VS Code snippet to quickly add Typescript script tags into Svelte files.
 
 ## Configuration
 
-Add the following into your **$HOME/.vscode/snippets.json** file:
+1. Add the emmet snippets to Svelte:
+   
+<img src="https://i.ibb.co/pW8tjGm/settings.png" alt="settings" width="550">
+
+3. Add into your **$HOME/.vscode/snippets.json** file the following:
 
 ```
 {
@@ -15,6 +19,7 @@ Add the following into your **$HOME/.vscode/snippets.json** file:
   }
 }
 ```
+
 The Windows address would be: **C:\Users\\{Username}\AppData\Local\Programs\Microsoft VS Code\snippets.json**
 
 _If you don't have a **snippets.json** file, just create it._
