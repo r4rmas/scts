@@ -10,7 +10,7 @@ Custom VS Code snippet to quickly add Typescript script tags into Svelte files.
    
 <img src="https://i.ibb.co/pW8tjGm/settings.png" alt="settings" width="550">
 
-2. Add an emmet extensions path. I recommend ~/.vscode:
+2. Add an emmet extension path. I recommend ~/.vscode:
 <img src="https://i.ibb.co/ynytKX4/bitmap.png" alt="bitmap" width="550">
 
 3. Add into the ~/.vscode/snippets.json** file the following:
